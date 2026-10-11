@@ -53,8 +53,11 @@ Code by Deepshikha.
 
 Images and sounds are not mine. They belong to their creators:
 
-- Character sprites: CREATOR NAME, LINK
-- Snail sprites: CREATOR NAME, LINK
-- Coin sprites: CREATOR NAME, LINK
-- Sky and ground: CREATOR NAME, LINK
-- Sound effects and music: CREATOR NAME, LINK
+- Character sprites: "ANIMATED CHARACTER" BY Sogomn , CCO,https://opengameart.org/content/animated-character (split into separate frames)
+- Snail sprites: "Snail" by Flatlander, CC BY 3.0, https://opengameart.org/content/snail (split into separate frames)
+- Coin sprites: "Rotating Coin" by Puddin, CC0, https://opengameart.org/content/rotating-coin (split into separate frames)
+- Sky: "Sky Backdrop" by bart, CC BY 3.0, https://opengameart.org/content/sky-backdrop (resized)
+- Ground:
+- Music:"Party and Gameover loop" (happy theme) by gilzoide, CC0, https://opengameart.org/content/party-and-gameover-loop,converted.
+- Sound effects (jump, coin, game over): CREATOR NAME, LINK
+                  
