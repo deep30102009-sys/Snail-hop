@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+highscore.txt
+coinwallet.txt
+.venv/
+.vscode/
+.idea/
+.DS_Store
