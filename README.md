@@ -2,9 +2,8 @@
 
 A simple endless jumping game made with Python and pygame. A snail slides toward you, and you have to jump over it. Collect coins on the way.
 
-<!-- Add a screenshot or GIF here: save it as screenshot.png in this folder, then remove these comment marks.
-![Snail Hop gameplay](screenshot.png)
--->
+[Snail Hop gameplay](screenshot.png)
+
 
 ## How to play
 
